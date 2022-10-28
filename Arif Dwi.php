@@ -6,10 +6,10 @@ if($a % 79) {
 }else {
     echo "$a adalah angka ganjil";
 }
-echo "<pre>";
 if($b % 80) {
     echo "$b adalah angka ganjil";
 }else {
     echo "$b adalah angka genap";
 }
 ?>
+
